@@ -6,7 +6,7 @@ on:
     
 jobs:
   biuld:
-    runs-on: ubuntu-larest
+    runs-on: ubuntu-latest
     
     steps:
     - name: Checout Code
